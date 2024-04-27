@@ -23,6 +23,7 @@ fakeLoading()
 </pre>
 </hr>
 <h3>متد Splice</h3>
+<p>مثال 1</p>
 <pre>
 let arr = [15 , 20 , 25];
 let arr1 = arr.splice(1);
