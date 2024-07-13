@@ -2,7 +2,7 @@
 <h1>یکسری نکات و توضیحات برای Js</h1>
 <hr/>
 <h3>_ لودینگ مصنوعی با Promis</h3>
-<figure><img src="https://eth2.pcloud.com/tLZnWMBbnZvwCZn1BbZZTO6YkkZmd4Z7ZZKuZqRZT0ZmFZPFZ54ieCCwaxc5KYRg672c3KSEcvPlV/promis.png"></figure>
+<figure><img src="https://eapi.pcloud.com/getpubthumb?code=XZbxHgZS7SRElQ1FNk6RmGGIhJKd8C9Fke7&linkpassword=undefined&size=1444x776&crop=0&type=auto"></figure>
 </hr>
 <h3>متد Splice</h3>
 <figure><img src="https://eth4.pcloud.com/tLZBaA2bnZcC4Zn1BbZZdw6YkkZmd4Z7ZZFfZ80ZzpZ80ZuHZFseEq3cFaOFM4F37aWmK57UAV4k0/ex1.png"></figure>
